@@ -1,0 +1,11 @@
+C:\Users\86757\source\repos\MyReadWriteLock\MyReadWriteLock\bin\Debug\netcoreapp2.0\MyReadWriteLock.deps.json
+C:\Users\86757\source\repos\MyReadWriteLock\MyReadWriteLock\bin\Debug\netcoreapp2.0\MyReadWriteLock.runtimeconfig.json
+C:\Users\86757\source\repos\MyReadWriteLock\MyReadWriteLock\bin\Debug\netcoreapp2.0\MyReadWriteLock.runtimeconfig.dev.json
+C:\Users\86757\source\repos\MyReadWriteLock\MyReadWriteLock\bin\Debug\netcoreapp2.0\MyReadWriteLock.dll
+C:\Users\86757\source\repos\MyReadWriteLock\MyReadWriteLock\bin\Debug\netcoreapp2.0\MyReadWriteLock.pdb
+C:\Users\86757\source\repos\MyReadWriteLock\MyReadWriteLock\obj\Debug\netcoreapp2.0\MyReadWriteLock.csprojResolveAssemblyReference.cache
+C:\Users\86757\source\repos\MyReadWriteLock\MyReadWriteLock\obj\Debug\netcoreapp2.0\MyReadWriteLock.csproj.CoreCompileInputs.cache
+C:\Users\86757\source\repos\MyReadWriteLock\MyReadWriteLock\obj\Debug\netcoreapp2.0\MyReadWriteLock.AssemblyInfoInputs.cache
+C:\Users\86757\source\repos\MyReadWriteLock\MyReadWriteLock\obj\Debug\netcoreapp2.0\MyReadWriteLock.AssemblyInfo.cs
+C:\Users\86757\source\repos\MyReadWriteLock\MyReadWriteLock\obj\Debug\netcoreapp2.0\MyReadWriteLock.dll
+C:\Users\86757\source\repos\MyReadWriteLock\MyReadWriteLock\obj\Debug\netcoreapp2.0\MyReadWriteLock.pdb
